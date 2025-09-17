@@ -40,7 +40,7 @@ Images/Graphics – For content and design
 
 Clone this repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/7saurabh7/Simple-Webpage-of-a-Restaurant
 
 
 Open the project folder.
