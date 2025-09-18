@@ -1,58 +1,52 @@
 # Simple-Webpage-of-a-Restaurant
 
-🍴 Food Website
+🍽️ Foodi – Restaurant Website
 
-This project is a static food-themed website built using HTML and images. It is designed to showcase dishes, chefs, and food items in a visually appealing way. The website is simple, beginner-friendly, and a great introduction to basic web development concepts.
-
-📂 Project Structure
-
-1.html – Main webpage
-
-Images – Used for food items, chefs, and background graphics
-
-chef1.jpg
-
-dish1.jpg, dish2.jpg, dish3.jpg
-
-image.png
-
-pngwing 3.jpg, pngwing 4.jpg, pngwing 6.jpg, pngwing 7.jpg
-
-.vscode/settings.json – VS Code workspace settings
+A responsive restaurant landing page built with HTML5 and CSS3.
+The project showcases a modern restaurant website with sections like hero banner, services, categories, standout dishes, testimonials, and a footer.
 
 🚀 Features
 
-Clean and simple user interface
+Responsive navigation bar with logo, menu links, and contact button
 
-Food/restaurant themed design
+Hero section with call-to-action buttons
 
-Integration of multiple images for an attractive layout
+Services section highlighting catering, delivery, and more
 
-Lightweight and beginner-friendly project
+Categories grid for browsing food items
 
-🛠️ Technologies Used
+Special Dishes section with pricing & ratings
 
-HTML5 – For structuring the webpage
+Testimonials featuring customer feedback and chef profile
 
-Images/Graphics – For content and design
+Footer with useful links, contact info, and social icons
 
-📌 How to Run
+Mobile-friendly layout using CSS Flexbox & Grid
 
-Clone this repository
+🛠️ Tech Stack
 
-git clone https://github.com/7saurabh7/Simple-Webpage-of-a-Restaurant
+HTML5 – structure of the website
+
+CSS3 – styling, layout, responsiveness
+
+No JavaScript (static site)
+
+📂 Project Structure
+📦 Restaurant-Website
+ ┣ 📜 index.html      # Main HTML file
+ ┣ 📜 style.css       # Stylesheet
+ ┣ 📂 assets/         # Images (hero, dishes, chef, etc.)
+
+💻 How to Run Locally
+
+Clone the repository
+
+git clone https://github.com/your-username/restaurant-website.git
 
 
-Open the project folder.
+Navigate into the project folder
 
-Run the file 1.html in any web browser.
+cd restaurant-website
 
-🎯 Purpose
 
-This project was created as a practice project for HTML and static website design. It helps beginners understand:
-
-How to create a webpage with HTML
-
-How to organize and display images
-
-How to structure a simple project
+Open index.html in your browser
