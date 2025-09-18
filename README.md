@@ -41,7 +41,7 @@ No JavaScript (static site)
 
 Clone the repository
 
-git clone https://github.com/your-username/restaurant-website.git
+git clone https://github.com/7saurabh7/Simple-Webpage-of-a-Restaurant/tree/main
 
 
 Navigate into the project folder
